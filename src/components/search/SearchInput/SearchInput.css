@@ -1,0 +1,9 @@
+.search-input--clear-icon {
+    cursor: pointer;
+    position: absolute;
+    width: 30px;
+    height: 16px;
+    left: 68%;
+    top: 22%;
+    z-index: 3;
+}
